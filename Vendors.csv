@@ -1,0 +1,21 @@
+Vendor_ID,Vendor_Name,Country,Category
+VEND-001,Vendor_1,France,Office Equipment
+VEND-002,Vendor_2,USA,Consulting
+VEND-003,Vendor_3,USA,Stationery
+VEND-004,Vendor_4,UK,Stationery
+VEND-005,Vendor_5,USA,Consulting
+VEND-006,Vendor_6,Germany,Logistics
+VEND-007,Vendor_7,UK,Consulting
+VEND-008,Vendor_8,Canada,Office Equipment
+VEND-009,Vendor_9,UK,Logistics
+VEND-010,Vendor_10,Canada,Stationery
+VEND-011,Vendor_11,Germany,Stationery
+VEND-012,Vendor_12,Canada,IT Services
+VEND-013,Vendor_13,Germany,Logistics
+VEND-014,Vendor_14,USA,Consulting
+VEND-015,Vendor_15,USA,Logistics
+VEND-016,Vendor_16,UK,Consulting
+VEND-017,Vendor_17,Germany,Office Equipment
+VEND-018,Vendor_18,UK,Consulting
+VEND-019,Vendor_19,UK,IT Services
+VEND-020,Vendor_20,USA,Logistics
